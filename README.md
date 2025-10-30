@@ -1,0 +1,1 @@
+A fully functional PHP website that includes database initialization, user log-in, registration, administration (with different roles), profile management, search functionality, posts, and comments on posts. All of the functionality is integrated in the web UI except the database initialization process.
